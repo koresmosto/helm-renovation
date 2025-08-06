@@ -2,6 +2,13 @@ apiVersion: v1
 entries:
   myapp:
   - apiVersion: v2
+    created: "2025-08-06T14:56:26.747088382Z"
+    digest: 076988ebaf39dfd6404b3f58010488113971ce60fca8a0fb5ac490f9b139bb3c
+    name: myapp
+    urls:
+    - https://github.com/koresmosto/helm-renovation/releases/download/myapp-0.1.1/myapp-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     created: "2025-08-06T14:54:34.050134553Z"
     digest: 84faf065ade49e822a16e1f77e3dac74e22a38dc605544d7a08c386d8bba8495
     name: myapp
@@ -10,10 +17,17 @@ entries:
     version: 0.1.0
   otherapp:
   - apiVersion: v2
+    created: "2025-08-06T14:56:26.870095401Z"
+    digest: 6eb9300c818c67375346ba39174d666fa2a162fd8e40fa9ab15fa71430ed9c11
+    name: otherapp
+    urls:
+    - https://github.com/koresmosto/helm-renovation/releases/download/otherapp-0.1.1/otherapp-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     created: "2025-08-06T14:54:34.206741338Z"
     digest: 68699410de7e1aed17918737479b2e26ae40e3da3181495d7753f8784e0f028f
     name: otherapp
     urls:
     - https://github.com/koresmosto/helm-renovation/releases/download/otherapp-0.1.0/otherapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-06T14:54:34.206749351Z"
+generated: "2025-08-06T14:56:26.870106773Z"
