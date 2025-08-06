@@ -1,0 +1,6 @@
+owner: koresmosto
+git-repo: helm-renovation
+index-path: index.yaml
+charts-dir: charts
+pages-branch: gh-pages
+remote: origin
